@@ -34,9 +34,9 @@
     "palette": {
       "neutral": {
         "1000": {
-          "value": "#000000",
+          "value": "#0FF000",
           "type": "color",
-          "rawValue": "#000000"
+          "rawValue": "#0FF000"
         },
         "000": {
           "value": "#ffffff",
