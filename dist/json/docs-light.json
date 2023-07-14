@@ -772,7 +772,7 @@
   },
   {
     "name": "notification-banner-color-border-inner-default",
-    "value": "#005a8f",
+    "value": "#0b5d8d",
     "description": "Fill color of the Default Notification Banner background",
     "property": "border",
     "category": "color",
@@ -842,7 +842,7 @@
   },
   {
     "name": "notification-banner-color-border-outer-default",
-    "value": "#005a8f",
+    "value": "#0b5d8d",
     "description": "Stroke color of the Default Notification Banner",
     "property": "border",
     "category": "color",
@@ -1958,7 +1958,7 @@
   },
   {
     "name": "color-palette-darkblue-500",
-    "value": "#005a8f",
+    "value": "#0b5d8d",
     "description": "Protected",
     "property": "palette",
     "category": "color",
@@ -2803,7 +2803,7 @@
   },
   {
     "name": "color-background-interactive-default",
-    "value": "#005a8f",
+    "value": "#0b5d8d",
     "description": "Primary color used for the backgrounds of interactive elements",
     "property": "background",
     "category": "color",
@@ -2873,7 +2873,7 @@
   },
   {
     "name": "color-text-interactive-default",
-    "value": "#005a8f",
+    "value": "#0b5d8d",
     "description": "Primary color used for interactive text elements",
     "property": "text",
     "category": "color",
@@ -2923,7 +2923,7 @@
   },
   {
     "name": "color-border-interactive-default",
-    "value": "#005a8f",
+    "value": "#0b5d8d",
     "description": "Primary color used for the border of interactive elements",
     "property": "border",
     "category": "color",

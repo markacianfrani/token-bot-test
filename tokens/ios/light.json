@@ -2,7 +2,7 @@
   "ios": {
     "accent": {
       "color": {
-        "value": "#005a8f",
+        "value": "#0b5d8d",
         "type": "color",
         "rawValue": "{color.palette.darkblue.500}"
       }
@@ -1951,10 +1951,10 @@
           "rawValue": "#2f7aa7"
         },
         "500": {
-          "value": "#005a8f",
+          "value": "#0b5d8d",
           "type": "color",
           "description": "Protected",
-          "rawValue": "#005a8f"
+          "rawValue": "#0b5d8d"
         },
         "600": {
           "value": "#004872",
