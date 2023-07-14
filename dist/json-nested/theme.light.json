@@ -29,7 +29,7 @@
         "inner": {
           "caution": "#fad800",
           "critical": "#ff2a04",
-          "default": "#005a8f",
+          "default": "#005a8fba",
           "normal": "#00e200",
           "off": "#7b8089",
           "serious": "#ffaf3d",
@@ -38,7 +38,7 @@
         "outer": {
           "caution": "#645600",
           "critical": "#661102",
-          "default": "#005a8f",
+          "default": "#005a8fba",
           "normal": "#005a00",
           "off": "#3c3e42",
           "serious": "#664618",
@@ -97,7 +97,7 @@
         "selected": "#cee9fc"
       },
       "interactive": {
-        "default": "#005a8f",
+        "default": "rgba(0, 90, 143, 0.73)",
         "hover": "#1c3f5e",
         "muted": "#2f7aa7"
       }
@@ -108,14 +108,14 @@
       "placeholder": "#7b8089",
       "inverse": "#ffffff",
       "interactive": {
-        "default": "#005a8f",
+        "default": "rgba(0, 90, 143, 0.73)",
         "hover": "#1c3f5e"
       },
       "error": "#c8102e"
     },
     "border": {
       "interactive": {
-        "default": "#005a8f",
+        "default": "rgba(0, 90, 143, 0.73)",
         "hover": "#1c3f5e",
         "muted": "#2f7aa7"
       },
