@@ -1,6 +1,6 @@
 :where(:root) {
   --tooltip-radius: 1px;
-  --tooltip-color-text: #ffffff;
+  --tooltip-color-text: #0fffff;
   --tooltip-color-background: #3c3e42;
   --timeline-header-color-background: #172635;
   --timeline-cell-color-background: #1c3f5e;
@@ -13,7 +13,7 @@
   --textarea-padding-x-large: 0.75rem;
   --textarea-color-background-default: #101923;
   --textarea-color-text-placeholder: #a4abb6;
-  --textarea-color-text-default: #ffffff;
+  --textarea-color-text-default: #0fffff;
   --textarea-color-border-invalid: #ff3838;
   --textarea-color-border-hover: #92cbff;
   --textarea-color-border-default: #2b659b;
@@ -25,7 +25,7 @@
   --table-body-cell-padding-y: 0.25rem;
   --table-row-border-width: 1px;
   --table-row-color-border: #101923;
-  --table-row-color-text: #ffffff;
+  --table-row-color-text: #0fffff;
   --table-row-color-background-hover: #1c3851;
   --table-row-color-background-selected: #1c3f5e;
   --table-row-color-background-default: #1b2d3e;
@@ -66,7 +66,7 @@
   --slider-thumb-color-background: #101923;
   --slider-thumb-border-width: 2px;
   --slider-radius-background-track: 1px;
-  --slider-axis-label-color-text: #ffffff;
+  --slider-axis-label-color-text: #0fffff;
   --select-radius: 3px;
   --select-padding-y-small: 1rem;
   --select-padding-y-medium: 0.5rem;
@@ -74,7 +74,7 @@
   --select-padding-x-small: 0.25rem;
   --select-padding-x-medium: 0.5rem;
   --select-padding-x-large: 0.75rem;
-  --select-color-text-inline: #ffffff;
+  --select-color-text-inline: #0fffff;
   --select-color-text: #4dacff;
   --select-color-border-invalid: #ff3838;
   --select-color-border-hover: #92cbff;
@@ -135,7 +135,7 @@
   --input-icon-dimension: 20px;
   --input-icon-color-fill-default: #4dacff;
   --input-color-text-placeholder: #a4abb6;
-  --input-color-text-default: #ffffff;
+  --input-color-text-default: #0fffff;
   --input-color-border-invalid: #ff3838;
   --input-color-border-hover: #92cbff;
   --input-color-border-default: #2b659b;
@@ -145,7 +145,7 @@
   --indeterminate-progress-radius-inner: 23px;
   --gsb-icon-color-fill-hover: #92cbff;
   --gsb-icon-color-fill-default: #4dacff;
-  --gsb-color-text: #ffffff;
+  --gsb-color-text: #0fffff;
   --gsb-color-background: #172635;
   --container-color-border: #000000;
   --clock-datetime-color-background: #101923;

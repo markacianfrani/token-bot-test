@@ -76,7 +76,7 @@
     },
     "text": {
       "primary": {
-        "value": "#ffffff",
+        "value": "#0fffff",
         "type": "color",
         "description": "Primary color used for text within the application",
         "rawValue": "{color.palette.neutral.000}"
@@ -114,7 +114,7 @@
         }
       },
       "white": {
-        "value": "#ffffff",
+        "value": "#0fffff",
         "type": "color",
         "description": "Text that is white across all themes. Used for classification and status banners that do not change color in various themes",
         "rawValue": "{color.palette.neutral.000}"

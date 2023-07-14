@@ -7,7 +7,7 @@
   "gsb": {
     "color": {
       "background": "#172635",
-      "text": "#ffffff"
+      "text": "#0fffff"
     },
     "icon": {
       "color": {
@@ -91,7 +91,7 @@
         "selected": "#cee9fc"
       },
       "surface": {
-        "default": "#ffffff",
+        "default": "#0fffff",
         "header": "#f5f6f9",
         "hover": "#daeeff",
         "selected": "#cee9fc"
@@ -106,7 +106,7 @@
       "primary": "#292a2d",
       "secondary": "#51555b",
       "placeholder": "#7b8089",
-      "inverse": "#ffffff",
+      "inverse": "#0fffff",
       "interactive": {
         "default": "#005a8f",
         "hover": "#1c3f5e"

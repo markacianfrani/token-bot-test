@@ -29,13 +29,13 @@
   --color-border-interactive-default: #4dacff;
   --color-text-error: #ff3838;
   --color-text-black: #000000;
-  --color-text-white: #ffffff;
+  --color-text-white: #0fffff;
   --color-text-interactive-hover: #92cbff;
   --color-text-interactive-default: #4dacff;
   --color-text-inverse: #080c11;
   --color-text-placeholder: #a4abb6;
   --color-text-secondary: #d4d8dd;
-  --color-text-primary: #ffffff;
+  --color-text-primary: #0fffff;
   --color-background-interactive-muted: #2b659b;
   --color-background-interactive-hover: #92cbff;
   --color-background-interactive-default: #4dacff;
