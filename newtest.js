@@ -44,8 +44,10 @@ const obj2 = {
 
 }
 
+const tokenFile = "tokens/base.reference.json"
+
 async function readTokensBasicJson() {
-	const filePath = 'tokens/basic.json';
+	const filePath = tokenFile
   
 	return new Promise((resolve, reject) => {
 	  fs.readFile(filePath, 'utf8', (error, data) => {
@@ -68,7 +70,7 @@ async function readTokensBasicJson() {
 
 
 async function getGitShowOutput(branchName) {
-	const command = `git show ${branchName}:tokens/basic.json`;
+	const command = `git show ${branchName}:${tokenFile}`;
   
 	return new Promise((resolve, reject) => {
 	  exec(command, (error, stdout, stderr) => {
@@ -95,13 +97,52 @@ async function getGitShowOutput(branchName) {
 	});
   }
 
+  function filterByLastItemIsValue(arr) {
+	if (arr.length === 0 || arr[arr.length - 1] !== "value") {
+	  // If the last element is not "value" or the array is empty, return an empty array
+	  return [];
+	}
   
+	return arr.slice(0, -1);
+  } 
+
   async function compare() {
 	const mainTokens = await getGitShowOutput('main')
 	const branchTokens = await readTokensBasicJson()
 
 	const result = diff(mainTokens, branchTokens)
-	console.log(result)
+	console.log(result);
+
+	const output = []
+	for (const item of result) {
+		const types = {
+			E: 'edited',
+			N: 'added',
+			D: 'deleted'
+		}
+
+		if (item.kind === 'E') {
+
+		const itemsOnly = filterByLastItemIsValue(item.path)
+		if (itemsOnly.length > 0) {
+			
+			output.push({
+				type: types[item.kind],
+				name: item.path.slice(0, -1).join('-')
+			})
+		}
+	}
+	else {
+		output.push({
+			type: types[item.kind],
+				name: item.path.join('-')
+		})
+
+	}
+
+		
+	}
+	console.log(output);
 
 
 
@@ -110,7 +151,7 @@ async function getGitShowOutput(branchName) {
   getGitShowOutput('main')
   .then(jsonObject => {
 
-	console.log(jsonObject);
+	// console.log(jsonObject);
     // You can use the 'jsonObject' as needed
   })
   .catch(error => {
