@@ -1,6 +1,6 @@
 {
   "opacity": {
-    "disabled": "40%"
+    "disabled": "41%"
   },
   "color": {
     "background": {
@@ -23,7 +23,7 @@
       }
     },
     "text": {
-      "primary": "#ffffff",
+      "primary": "#0fffff",
       "secondary": "#d4d8dd",
       "placeholder": "#a4abb6",
       "inverse": "#080c11",
@@ -31,7 +31,7 @@
         "default": "#4dacff",
         "hover": "#92cbff"
       },
-      "white": "#ffffff",
+      "white": "#0fffff",
       "black": "#000000",
       "error": "#ff3838"
     },

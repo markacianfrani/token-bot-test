@@ -210,7 +210,6 @@ export const ColorPaletteNeutral1000 : string;
 export const ColorPaletteNeutral000 : string;
 export const ColorPaletteDarkblue100 : string;
 export const ColorPaletteDarkblue200 : string;
-export const ColorPaletteDarkblue300 : string;
 export const ColorPaletteDarkblue400 : string;
 export const ColorPaletteDarkblue500 : string;
 export const ColorPaletteDarkblue600 : string;
