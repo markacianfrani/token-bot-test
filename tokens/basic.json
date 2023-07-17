@@ -1,0 +1,16 @@
+{
+	"color": {
+		"background": {
+			"fg": {
+				"type": "color",
+				"value": "#FACADE",
+				"rawValue": "#FACADE"
+			},
+			"bg": {
+				"type": "color",
+				"value": "#FA3AD1",
+				"rawValue": "#FA3AD1"
+			}
+		}
+	}
+}
