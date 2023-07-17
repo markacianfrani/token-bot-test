@@ -6,6 +6,7 @@
   "main": "dist/js/tokens.common.js",
   "module": "dist/js/tokens.module.js",
   "dependencies": {
+    "deep-diff": "^1.0.2",
     "parse-diff": "^0.11.1"
   },
   "scripts": {

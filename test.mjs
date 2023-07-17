@@ -28,7 +28,7 @@ async function go() {
 async function listDesignTokenChanges(diffContent) {
   try {
     const parsed = parse(diffContent)
-    const docsFile = parsed.find(file => file.to.includes('tokens/base.reference.json'))
+    const docsFile = parsed.find(file => file.to.includes('tokens/basic.json'))
     fs.writeFileSync('diff.json', JSON.stringify(docsFile));
     console.log('docs',docsFile.chunks[0].changes);
 

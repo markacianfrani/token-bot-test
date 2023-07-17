@@ -803,6 +803,11 @@
   dependencies:
     "mimic-response" "^3.1.0"
 
+"deep-diff@^1.0.2":
+  "integrity" "sha512-aWS3UIVH+NPGCD1kki+DCU9Dua032iSsO43LqQpcs4R3+dVv7tX0qBGjiVHJHjplsoUM2XRO/KB92glqc68awg=="
+  "resolved" "https://registry.npmjs.org/deep-diff/-/deep-diff-1.0.2.tgz"
+  "version" "1.0.2"
+
 "deep-extend@^0.6.0":
   "integrity" "sha512-LOHxIOaPYdHlJRtCQfDIVZtfw/ufM8+rVj649RIHzcm/vGwQRXFt6OPqIFWsm2XEMrNIEtWR64sY1LEKD2vAOA=="
   "resolved" "https://registry.npmjs.org/deep-extend/-/deep-extend-0.6.0.tgz"
