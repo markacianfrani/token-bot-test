@@ -1,4 +1,5 @@
 import { execSync } from 'child_process';
+import  fs  from 'fs'
 import parse from 'parse-diff';
 
 /** get an array of files that have changed between current branch and target branch */
@@ -27,8 +28,9 @@ async function go() {
 async function listDesignTokenChanges(diffContent) {
   try {
     const parsed = parse(diffContent)
-    const docsFile = parsed.find(file => file.to.includes('base.reference.json'))
-    console.log('docs',docsFile);
+    const docsFile = parsed.find(file => file.to.includes('tokens/base.reference.json'))
+    fs.writeFileSync('diff.json', JSON.stringify(docsFile));
+    console.log('docs',docsFile.chunks[0].changes);
 
     let out = []
 

@@ -1,0 +1,273 @@
+{
+	"chunks": [
+		{
+			"content": "@@ -13,10 +13,10 @@",
+			"changes": [
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 13,
+					"ln2": 13,
+					"content": "             \"rawValue\": \"35%\""
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 14,
+					"ln2": 14,
+					"content": "         },"
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 15,
+					"ln2": 15,
+					"content": "         \"40\": {"
+				},
+				{
+					"type": "del",
+					"del": true,
+					"ln": 16,
+					"content": "-            \"value\": \"40%\","
+				},
+				{
+					"type": "add",
+					"add": true,
+					"ln": 16,
+					"content": "+            \"value\": \"41%\","
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 17,
+					"ln2": 17,
+					"content": "             \"type\": \"opacity\","
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 18,
+					"ln2": 18,
+					"content": "             \"description\": \"Opacity used in disabled states\","
+				},
+				{
+					"type": "del",
+					"del": true,
+					"ln": 19,
+					"content": "-            \"rawValue\": \"40%\""
+				},
+				{
+					"type": "add",
+					"add": true,
+					"ln": 19,
+					"content": "+            \"rawValue\": \"41%\""
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 20,
+					"ln2": 20,
+					"content": "         },"
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 21,
+					"ln2": 21,
+					"content": "         \"45\": {"
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 22,
+					"ln2": 22,
+					"content": "             \"value\": \"45%\","
+				}
+			],
+			"oldStart": 13,
+			"oldLines": 10,
+			"newStart": 13,
+			"newLines": 10
+		},
+		{
+			"content": "@@ -39,10 +39,10 @@",
+			"changes": [
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 39,
+					"ln2": 39,
+					"content": "                     \"rawValue\": \"#000000\""
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 40,
+					"ln2": 40,
+					"content": "                 },"
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 41,
+					"ln2": 41,
+					"content": "                 \"000\": {"
+				},
+				{
+					"type": "del",
+					"del": true,
+					"ln": 42,
+					"content": "-                    \"value\": \"#ffffff\","
+				},
+				{
+					"type": "add",
+					"add": true,
+					"ln": 42,
+					"content": "+                    \"value\": \"#0fffff\","
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 43,
+					"ln2": 43,
+					"content": "                     \"type\": \"color\","
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 44,
+					"ln2": 44,
+					"content": "                     \"description\": \"Protected\","
+				},
+				{
+					"type": "del",
+					"del": true,
+					"ln": 45,
+					"content": "-                    \"rawValue\": \"#ffffff\""
+				},
+				{
+					"type": "add",
+					"add": true,
+					"ln": 45,
+					"content": "+                    \"rawValue\": \"#0fffff\""
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 46,
+					"ln2": 46,
+					"content": "                 }"
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 47,
+					"ln2": 47,
+					"content": "             },"
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 48,
+					"ln2": 48,
+					"content": "             \"darkblue\": {"
+				}
+			],
+			"oldStart": 39,
+			"oldLines": 10,
+			"newStart": 39,
+			"newLines": 10
+		},
+		{
+			"content": "@@ -56,11 +56,6 @@",
+			"changes": [
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 56,
+					"ln2": 56,
+					"content": "                     \"type\": \"color\","
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 57,
+					"ln2": 57,
+					"content": "                     \"rawValue\": \"#98bdd3\""
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 58,
+					"ln2": 58,
+					"content": "                 },"
+				},
+				{
+					"type": "del",
+					"del": true,
+					"ln": 59,
+					"content": "-                \"300\": {"
+				},
+				{
+					"type": "del",
+					"del": true,
+					"ln": 60,
+					"content": "-                    \"value\": \"#649cbd\","
+				},
+				{
+					"type": "del",
+					"del": true,
+					"ln": 61,
+					"content": "-                    \"type\": \"color\","
+				},
+				{
+					"type": "del",
+					"del": true,
+					"ln": 62,
+					"content": "-                    \"rawValue\": \"#649cbd\""
+				},
+				{
+					"type": "del",
+					"del": true,
+					"ln": 63,
+					"content": "-                },"
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 64,
+					"ln2": 59,
+					"content": "                 \"400\": {"
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 65,
+					"ln2": 60,
+					"content": "                     \"value\": \"#2f7aa7\","
+				},
+				{
+					"type": "normal",
+					"normal": true,
+					"ln1": 66,
+					"ln2": 61,
+					"content": "                     \"type\": \"color\","
+				}
+			],
+			"oldStart": 56,
+			"oldLines": 11,
+			"newStart": 56,
+			"newLines": 6
+		}
+	],
+	"deletions": 9,
+	"additions": 4,
+	"from": "tokens/base.reference.json",
+	"to": "tokens/base.reference.json",
+	"index": [
+		"5ff0252..08cf791",
+		"100644"
+	],
+	"newMode": "100644",
+	"oldMode": "100644"
+}
