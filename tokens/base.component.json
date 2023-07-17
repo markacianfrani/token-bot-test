@@ -363,7 +363,7 @@
       "text": {
         "description": "Primary text color used within the Global Status Bar",
         "type": "color",
-        "value": "#ffffff",
+        "value": "#0fffff",
         "rawValue": "{color.palette.neutral.000}"
       }
     },
@@ -436,7 +436,7 @@
       "text": {
         "default": {
           "type": "color",
-          "value": "#ffffff",
+          "value": "#0fffff",
           "rawValue": "{color.text.primary}"
         },
         "placeholder": {
@@ -894,7 +894,7 @@
       },
       "text-inline": {
         "type": "color",
-        "value": "#ffffff",
+        "value": "#0fffff",
         "rawValue": "{color.text.primary}"
       }
     },
@@ -941,15 +941,6 @@
     }
   },
   "slider": {
-    "axis-label": {
-      "color": {
-        "text": {
-          "type": "color",
-          "value": "#ffffff",
-          "rawValue": "{color.text.primary}"
-        }
-      }
-    },
     "radius": {
       "background-track": {
         "description": "[DEPRECATED] use slider-track-radius instead",
@@ -1241,7 +1232,7 @@
           }
         },
         "text": {
-          "value": "#ffffff",
+          "value": "#0fffff",
           "type": "color",
           "rawValue": "{color.text.primary}"
         },
@@ -1369,7 +1360,7 @@
       "text": {
         "default": {
           "type": "color",
-          "value": "#ffffff",
+          "value": "#0fffff",
           "rawValue": "{color.text.primary}"
         },
         "placeholder": {
@@ -1459,7 +1450,7 @@
       "text": {
         "description": "Text color for Tooltips",
         "type": "color",
-        "value": "#ffffff",
+        "value": "#0fffff",
         "rawValue": "{color.text.white}"
       }
     },

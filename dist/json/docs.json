@@ -496,7 +496,7 @@
   },
   {
     "name": "gsb-color-text",
-    "value": "#ffffff",
+    "value": "#0fffff",
     "description": "Primary text color used within the Global Status Bar",
     "property": "text",
     "category": "color",
@@ -588,7 +588,7 @@
   },
   {
     "name": "input-color-text-default",
-    "value": "#ffffff",
+    "value": "#0fffff",
     "property": "text",
     "category": "color",
     "component": "input",
@@ -1149,7 +1149,7 @@
   },
   {
     "name": "select-color-text-inline",
-    "value": "#ffffff",
+    "value": "#0fffff",
     "property": "text-inline",
     "category": "color",
     "component": "select",
@@ -1216,15 +1216,6 @@
     "category": "borderRadius",
     "component": "select",
     "referenceToken": "radius-base",
-    "tokenLevel": "component"
-  },
-  {
-    "name": "slider-axis-label-color-text",
-    "value": "#ffffff",
-    "property": "text",
-    "category": "color",
-    "component": "slider",
-    "referenceToken": "color-text-primary",
     "tokenLevel": "component"
   },
   {
@@ -1604,7 +1595,7 @@
   },
   {
     "name": "table-row-color-text",
-    "value": "#ffffff",
+    "value": "#0fffff",
     "property": "text",
     "category": "color",
     "component": "table",
@@ -1716,7 +1707,7 @@
   },
   {
     "name": "textarea-color-text-default",
-    "value": "#ffffff",
+    "value": "#0fffff",
     "property": "text",
     "category": "color",
     "component": "textarea",
@@ -1833,7 +1824,7 @@
   },
   {
     "name": "tooltip-color-text",
-    "value": "#ffffff",
+    "value": "#0fffff",
     "description": "Text color for Tooltips",
     "property": "text",
     "category": "color",
@@ -1869,7 +1860,7 @@
   },
   {
     "name": "opacity-40",
-    "value": "40%",
+    "value": "41%",
     "description": "Opacity used in disabled states",
     "property": "40",
     "category": "opacity",
@@ -1895,7 +1886,7 @@
   },
   {
     "name": "opacity-disabled",
-    "value": "40%",
+    "value": "41%",
     "description": "Opacity used to indicate the disabled state",
     "property": "disabled",
     "category": "opacity",
@@ -1913,7 +1904,7 @@
   },
   {
     "name": "color-palette-neutral-000",
-    "value": "#ffffff",
+    "value": "#0fffff",
     "description": "Protected",
     "property": "palette",
     "category": "color",
@@ -1931,14 +1922,6 @@
   {
     "name": "color-palette-darkblue-200",
     "value": "#98bdd3",
-    "property": "palette",
-    "category": "color",
-    "component": null,
-    "tokenLevel": "reference"
-  },
-  {
-    "name": "color-palette-darkblue-300",
-    "value": "#649cbd",
     "property": "palette",
     "category": "color",
     "component": null,
@@ -2830,7 +2813,7 @@
   },
   {
     "name": "color-text-primary",
-    "value": "#ffffff",
+    "value": "#0fffff",
     "description": "Primary color used for text within the application",
     "property": "text",
     "category": "color",
@@ -2890,7 +2873,7 @@
   },
   {
     "name": "color-text-white",
-    "value": "#ffffff",
+    "value": "#0fffff",
     "description": "Text that is white across all themes. Used for classification and status banners that do not change color in various themes",
     "property": "text",
     "category": "color",

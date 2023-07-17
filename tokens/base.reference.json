@@ -13,10 +13,10 @@
             "rawValue": "35%"
         },
         "40": {
-            "value": "40%",
+            "value": "41%",
             "type": "opacity",
             "description": "Opacity used in disabled states",
-            "rawValue": "40%"
+            "rawValue": "41%"
         },
         "45": {
             "value": "45%",
@@ -39,10 +39,10 @@
                     "rawValue": "#000000"
                 },
                 "000": {
-                    "value": "#ffffff",
+                    "value": "#0fffff",
                     "type": "color",
                     "description": "Protected",
-                    "rawValue": "#ffffff"
+                    "rawValue": "#0fffff"
                 }
             },
             "darkblue": {
@@ -55,11 +55,6 @@
                     "value": "#98bdd3",
                     "type": "color",
                     "rawValue": "#98bdd3"
-                },
-                "300": {
-                    "value": "#649cbd",
-                    "type": "color",
-                    "rawValue": "#649cbd"
                 },
                 "400": {
                     "value": "#2f7aa7",

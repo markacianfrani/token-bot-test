@@ -520,7 +520,7 @@
       "text": {
         "description": "Primary text color used within the Global Status Bar",
         "type": "color",
-        "value": "#ffffff",
+        "value": "#0fffff",
         "rawValue": "{color.palette.neutral.000}"
       }
     },
@@ -593,7 +593,7 @@
       "text": {
         "default": {
           "type": "color",
-          "value": "#ffffff",
+          "value": "#0fffff",
           "rawValue": "{color.text.primary}"
         },
         "placeholder": {
@@ -1051,7 +1051,7 @@
       },
       "text-inline": {
         "type": "color",
-        "value": "#ffffff",
+        "value": "#0fffff",
         "rawValue": "{color.text.primary}"
       }
     },
@@ -1098,15 +1098,6 @@
     }
   },
   "slider": {
-    "axis-label": {
-      "color": {
-        "text": {
-          "type": "color",
-          "value": "#ffffff",
-          "rawValue": "{color.text.primary}"
-        }
-      }
-    },
     "radius": {
       "background-track": {
         "description": "[DEPRECATED] use slider-track-radius instead",
@@ -1398,7 +1389,7 @@
           }
         },
         "text": {
-          "value": "#ffffff",
+          "value": "#0fffff",
           "type": "color",
           "rawValue": "{color.text.primary}"
         },
@@ -1526,7 +1517,7 @@
       "text": {
         "default": {
           "type": "color",
-          "value": "#ffffff",
+          "value": "#0fffff",
           "rawValue": "{color.text.primary}"
         },
         "placeholder": {
@@ -1616,7 +1607,7 @@
       "text": {
         "description": "Text color for Tooltips",
         "type": "color",
-        "value": "#ffffff",
+        "value": "#0fffff",
         "rawValue": "{color.text.white}"
       }
     },
@@ -1704,7 +1695,7 @@
     },
     "text": {
       "primary": {
-        "value": "#ffffff",
+        "value": "#0fffff",
         "type": "color",
         "description": "Primary color used for text within the application",
         "rawValue": "{color.palette.neutral.000}"
@@ -1742,7 +1733,7 @@
         }
       },
       "white": {
-        "value": "#ffffff",
+        "value": "#0fffff",
         "type": "color",
         "description": "Text that is white across all themes. Used for classification and status banners that do not change color in various themes",
         "rawValue": "{color.palette.neutral.000}"
@@ -1922,10 +1913,10 @@
           "rawValue": "#000000"
         },
         "000": {
-          "value": "#ffffff",
+          "value": "#0fffff",
           "type": "color",
           "description": "Protected",
-          "rawValue": "#ffffff"
+          "rawValue": "#0fffff"
         }
       },
       "darkblue": {
@@ -1938,11 +1929,6 @@
           "value": "#98bdd3",
           "type": "color",
           "rawValue": "#98bdd3"
-        },
-        "300": {
-          "value": "#649cbd",
-          "type": "color",
-          "rawValue": "#649cbd"
         },
         "400": {
           "value": "#2f7aa7",
@@ -2476,10 +2462,10 @@
       "rawValue": "35%"
     },
     "40": {
-      "value": "40%",
+      "value": "41%",
       "type": "opacity",
       "description": "Opacity used in disabled states",
-      "rawValue": "40%"
+      "rawValue": "41%"
     },
     "45": {
       "value": "45%",
@@ -2493,7 +2479,7 @@
       "rawValue": "50%"
     },
     "disabled": {
-      "value": "40%",
+      "value": "41%",
       "type": "opacity",
       "description": "Opacity used to indicate the disabled state",
       "rawValue": "{opacity.40}"
