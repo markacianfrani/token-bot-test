@@ -132,7 +132,6 @@ export const SelectPaddingYLarge = "0.25rem";
 export const SelectPaddingYMedium = "0.5rem";
 export const SelectPaddingYSmall = "1rem";
 export const SelectRadius = "3px";
-export const SliderAxisLabelColorText = "#0fffff";
 export const SliderRadiusBackgroundTrack = "1px";
 export const SliderThumbBorderWidth = "2px";
 export const SliderThumbColorBackground = "#101923";

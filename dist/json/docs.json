@@ -1219,15 +1219,6 @@
     "tokenLevel": "component"
   },
   {
-    "name": "slider-axis-label-color-text",
-    "value": "#0fffff",
-    "property": "text",
-    "category": "color",
-    "component": "slider",
-    "referenceToken": "color-text-primary",
-    "tokenLevel": "component"
-  },
-  {
     "name": "slider-radius-background-track",
     "value": "1px",
     "description": "[DEPRECATED] use slider-track-radius instead",

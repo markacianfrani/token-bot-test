@@ -336,11 +336,6 @@
     "radius": "3px"
   },
   "slider": {
-    "axis-label": {
-      "color": {
-        "text": "#0fffff"
-      }
-    },
     "radius": {
       "background-track": "1px"
     },
