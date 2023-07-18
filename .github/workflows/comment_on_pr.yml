@@ -5,6 +5,10 @@ on:
   pull_request:
 
 jobs:
+  test_thing:
+    uses: actions/javascript-action@v1
+    with:
+      milliseconds: 1000
   generate_tokens:
     runs-on: ubuntu-latest
     steps:
