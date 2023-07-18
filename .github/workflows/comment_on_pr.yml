@@ -13,4 +13,5 @@ jobs:
         fetch-depth: 0
     - uses: markacianfrani/token-bot-action@v0
       with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
         milliseconds: 1000
