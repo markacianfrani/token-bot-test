@@ -8,7 +8,6 @@ export const ColorPaletteNeutral1000 = "#000000";
 export const ColorPaletteNeutral000 = "#ffffff";
 export const ColorPaletteDarkblue100 = "#cbdee9";
 export const ColorPaletteDarkblue200 = "#98bdd3";
-export const ColorPaletteDarkblue300 = "#649cbd";
 export const ColorPaletteDarkblue400 = "#2f7aa7";
 export const ColorPaletteDarkblue500 = "#005a8f";
 export const ColorPaletteDarkblue600 = "#004872";

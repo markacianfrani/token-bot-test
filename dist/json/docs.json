@@ -1937,14 +1937,6 @@
     "tokenLevel": "reference"
   },
   {
-    "name": "color-palette-darkblue-300",
-    "value": "#649cbd",
-    "property": "palette",
-    "category": "color",
-    "component": null,
-    "tokenLevel": "reference"
-  },
-  {
     "name": "color-palette-darkblue-400",
     "value": "#2f7aa7",
     "description": "Protected",

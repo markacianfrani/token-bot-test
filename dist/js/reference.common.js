@@ -9,7 +9,6 @@ module.exports = {
   "ColorPaletteNeutral000": "#ffffff",
   "ColorPaletteDarkblue100": "#cbdee9",
   "ColorPaletteDarkblue200": "#98bdd3",
-  "ColorPaletteDarkblue300": "#649cbd",
   "ColorPaletteDarkblue400": "#2f7aa7",
   "ColorPaletteDarkblue500": "#005a8f",
   "ColorPaletteDarkblue600": "#004872",
