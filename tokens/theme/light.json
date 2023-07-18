@@ -21,7 +21,7 @@
           "rawValue": "{color.palette.brightblue.200}"
         },
         "hover": {
-          "value": "#daeeff",
+          "value": "#da3eff",
           "type": "color",
           "description": "Background color of surface elements, like cards or table rows, when they are hovered over",
           "rawValue": "{color.palette.brightblue.100}"

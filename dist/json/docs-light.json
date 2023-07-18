@@ -2020,7 +2020,7 @@
   },
   {
     "name": "color-palette-brightblue-100",
-    "value": "#daeeff",
+    "value": "#da3eff",
     "property": "palette",
     "category": "color",
     "component": null,
@@ -2792,7 +2792,7 @@
   },
   {
     "name": "color-background-surface-hover",
-    "value": "#daeeff",
+    "value": "#da3eff",
     "description": "Background color of surface elements, like cards or table rows, when they are hovered over",
     "property": "background",
     "category": "color",

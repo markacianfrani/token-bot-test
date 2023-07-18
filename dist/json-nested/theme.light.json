@@ -93,7 +93,7 @@
       "surface": {
         "default": "#ffffff",
         "header": "#f5f6f9",
-        "hover": "#daeeff",
+        "hover": "#da3eff",
         "selected": "#cee9fc"
       },
       "interactive": {

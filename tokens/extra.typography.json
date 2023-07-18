@@ -111,9 +111,9 @@
       },
       "brightblue": {
         "100": {
-          "value": "#daeeff",
+          "value": "#da3eff",
           "type": "color",
-          "rawValue": "#daeeff"
+          "rawValue": "#da3eff"
         },
         "200": {
           "value": "#cee9fc",
