@@ -9,15 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Install Node Dependencies
-      run: npm install
-    - name: Build Style Dictionary
-      run: npm run make
-    - name: Commit Generated Platform Deliverables
-      id: "auto-commit-action"
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: Update design tokens
     - name: do the thing
       uses: markacianfrani/token-bot-action@v0
       with:
