@@ -11,7 +11,6 @@ jobs:
     - uses: actions/checkout@v3
       with:
         fetch-depth: 0
-    - name: do the thing
-      uses: markacianfrani/token-bot-action@v0
+    - uses: markacianfrani/token-bot-action@v0
       with:
         milliseconds: 1000
