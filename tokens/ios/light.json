@@ -2463,6 +2463,12 @@
     }
   },
   "opacity": {
+    "11": {
+      "value": "11%",
+      "type": "opacity",
+      "description": "Opacity used in drop shadow for scrollbars in light theme",
+      "rawValue": "11%"
+    },
     "25": {
       "value": "31%",
       "type": "opacity",

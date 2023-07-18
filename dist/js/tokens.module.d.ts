@@ -200,6 +200,7 @@ export const TimelineHeaderColorBackground : string;
 export const TooltipColorBackground : string;
 export const TooltipColorText : string;
 export const TooltipRadius : string;
+export const Opacity11 : string;
 export const Opacity25 : string;
 export const Opacity35 : string;
 export const Opacity40 : string;

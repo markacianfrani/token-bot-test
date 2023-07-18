@@ -200,6 +200,7 @@ export const TimelineHeaderColorBackground = "#172635";
 export const TooltipColorBackground = "#3c3e42";
 export const TooltipColorText = "#ffffff";
 export const TooltipRadius = "1px";
+export const Opacity11 = "11%";
 export const Opacity25 = "31%";
 export const Opacity35 = "35%";
 export const Opacity40 = "40%";

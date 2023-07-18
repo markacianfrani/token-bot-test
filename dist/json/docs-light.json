@@ -1853,6 +1853,15 @@
     "tokenLevel": "component"
   },
   {
+    "name": "opacity-11",
+    "value": "11%",
+    "description": "Opacity used in drop shadow for scrollbars in light theme",
+    "property": "11",
+    "category": "opacity",
+    "component": null,
+    "tokenLevel": "reference"
+  },
+  {
     "name": "opacity-25",
     "value": "31%",
     "description": "Opacity used in drop shadow for scrollbars in light theme",

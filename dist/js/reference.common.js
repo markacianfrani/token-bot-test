@@ -1,4 +1,5 @@
 module.exports = {
+  "Opacity11": "11%",
   "Opacity25": "31%",
   "Opacity35": "35%",
   "Opacity40": "40%",
