@@ -133,7 +133,6 @@
   "select-padding-y-medium": "0.5rem",
   "select-padding-y-small": "1rem",
   "select-radius": "3px",
-  "slider-axis-label-color-text": "#ffffff",
   "slider-radius-background-track": "1px",
   "slider-thumb-border-width": "2px",
   "slider-thumb-color-background": "#101923",

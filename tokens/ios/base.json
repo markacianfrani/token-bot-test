@@ -1098,15 +1098,6 @@
     }
   },
   "slider": {
-    "axis-label": {
-      "color": {
-        "text": {
-          "type": "color",
-          "value": "#ffffff",
-          "rawValue": "{color.text.primary}"
-        }
-      }
-    },
     "radius": {
       "background-track": {
         "description": "[DEPRECATED] use slider-track-radius instead",

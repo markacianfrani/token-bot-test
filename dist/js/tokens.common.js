@@ -133,7 +133,6 @@ module.exports = {
   "SelectPaddingYMedium": "0.5rem",
   "SelectPaddingYSmall": "1rem",
   "SelectRadius": "3px",
-  "SliderAxisLabelColorText": "#ffffff",
   "SliderRadiusBackgroundTrack": "1px",
   "SliderThumbBorderWidth": "2px",
   "SliderThumbColorBackground": "#101923",
