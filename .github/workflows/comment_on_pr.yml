@@ -6,6 +6,8 @@ on:
 
 jobs:
   generate_tokens:
-    uses: markacianfrani/token-bot-action@v0
-    with:
-      milliseconds: 1000
+    runs-on: ubuntu-latest
+    steps:
+    - uses: markacianfrani/token-bot-action@v0
+      with:
+        milliseconds: 1000
