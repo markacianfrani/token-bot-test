@@ -1035,7 +1035,7 @@
   },
   {
     "name": "scrollbar-shadow-inner-vertical",
-    "value": "inset 3px 3px 3px 0px rgba(0, 0, 0, 0.25)",
+    "value": "inset 3px 3px 3px 0px rgba(0, 0, 0, 0.31)",
     "description": "Inner shadow for vertical scrollbars",
     "property": "inner",
     "category": "boxShadow",
@@ -1854,7 +1854,7 @@
   },
   {
     "name": "opacity-25",
-    "value": "25%",
+    "value": "31%",
     "description": "Opacity used in drop shadow for scrollbars in light theme",
     "property": "25",
     "category": "opacity",

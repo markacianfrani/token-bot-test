@@ -44,7 +44,7 @@
   --tag-shadow-inner-unknown: inset 0px 0px 5px 0px rgb(123, 128, 137);
   --tag-shadow-inner-pass: inset 0px 0px 5px 0px rgb(0, 226, 0);
   --tag-shadow-inner-fail: inset 0px 0px 5px 0px rgb(255, 42, 4);
-  --scrollbar-shadow-inner-vertical: inset 3px 3px 3px 0px rgba(0, 0, 0, 0.25);
+  --scrollbar-shadow-inner-vertical: inset 3px 3px 3px 0px rgba(0, 0, 0, 0.31);
   --scrollbar-shadow-inner-horizontal: inset 1px 3px 3px 0px rgba(0, 0, 0, 0.5);
   --notification-banner-color-border-outer-standby: #285766;
   --notification-banner-color-border-outer-serious: #664618;

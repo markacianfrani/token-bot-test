@@ -51,7 +51,7 @@
     "shadow": {
       "inner": {
         "horizontal": "inset 1px 3px 3px 0px rgba(0, 0, 0, 0.5)",
-        "vertical": "inset 3px 3px 3px 0px rgba(0, 0, 0, 0.25)"
+        "vertical": "inset 3px 3px 3px 0px rgba(0, 0, 0, 0.31)"
       }
     }
   },

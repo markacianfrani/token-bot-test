@@ -201,7 +201,7 @@ module.exports = {
   "TooltipColorBackground": "#3c3e42",
   "TooltipColorText": "#ffffff",
   "TooltipRadius": "1px",
-  "Opacity25": "25%",
+  "Opacity25": "31%",
   "Opacity35": "35%",
   "Opacity40": "40%",
   "Opacity45": "45%",
