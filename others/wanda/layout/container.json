@@ -1,0 +1,34 @@
+{
+  "container": {
+    "extra-large": {
+      "value": 1520,
+      "attributes": {
+        "category": "size"
+      }
+    },
+    "large": {
+      "value": 1216,
+      "attributes": {
+        "category": "size"
+      }
+    },
+    "medium": {
+      "value": 912,
+      "attributes": {
+        "category": "size"
+      }
+    },
+    "small": {
+      "value": 720,
+      "attributes": {
+        "category": "size"
+      }
+    },
+    "extra-small": {
+      "value": 432,
+      "attributes": {
+        "category": "size"
+      }
+    }
+  }
+}

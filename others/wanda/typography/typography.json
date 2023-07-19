@@ -1,0 +1,131 @@
+{
+  "wds": {
+    "font": {
+      "family": {
+        "sans": {
+          "value": "system-ui, sans-serif"
+        },
+        "mono": {
+          "value": "monospace"
+        }
+      },
+      "size": {
+        "96": {
+          "value": "6rem"
+        },
+        "80": {
+          "value": "5rem"
+        },
+        "68": {
+          "value": "4rem"
+        },
+        "56": {
+          "value": "3.5rem"
+        },
+        "48": {
+          "value": "3rem"
+        },
+        "40": {
+          "value": "2.5rem"
+        },
+        "32": {
+          "value": "2rem"
+        },
+        "28": {
+          "value": "1.75rem"
+        },
+        "24": {
+          "value": "1.5rem"
+        },
+        "20": {
+          "value": "1.25rem"
+        },
+        "16": {
+          "value": "1rem"
+        },
+        "14": {
+          "value": "0.875rem"
+        },
+        "12": {
+          "value": "0.75rem"
+        }
+      },
+      "weight": {
+        "heavy": {
+          "value": "800"
+        },
+        "bold": {
+          "value": "700"
+        },
+        "semibold": {
+          "value": "600"
+        },
+        "regular": {
+          "value": "400"
+        },
+        "light": {
+          "value": "300"
+        }
+      }
+    },
+    "line": {
+      "height": {
+        "108": {
+          "value": "6.75rem"
+        },
+        "96": {
+          "value": "6rem"
+        },
+        "80": {
+          "value": "5rem"
+        },
+        "64": {
+          "value": "4rem"
+        },
+        "56": {
+          "value": "3.5rem"
+        },
+        "48": {
+          "value": "3rem"
+        },
+        "40": {
+          "value": "2.5rem"
+        },
+        "36": {
+          "value": "2.25rem"
+        },
+        "32": {
+          "value": "2rem"
+        },
+        "28": {
+          "value": "1.75rem"
+        },
+        "24": {
+          "value": "1.5rem"
+        },
+        "20": {
+          "value": "1.25rem"
+        },
+        "16": {
+          "value": "1rem"
+        }
+      }
+    },
+    "letter": {
+      "spacing": {
+        "0": {
+          "value": "0"
+        },
+        "16": {
+          "value": "0.01rem"
+        },
+        "24": {
+          "value": "0.015rem"
+        },
+        "32": {
+          "value": "0.02rem"
+        }
+      }
+    }
+  }
+}
