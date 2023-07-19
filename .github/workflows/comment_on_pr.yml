@@ -14,5 +14,4 @@ jobs:
     - uses: markacianfrani/token-bot-action@v0
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        files: others/wanda/colors/blue.json
-        milliseconds: 1000
+        files: others/wanda/colors/blue.json,others/foo.json
