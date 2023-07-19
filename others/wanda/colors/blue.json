@@ -2,13 +2,19 @@
   "color": {
     "blue": {
       "0": {
-        "value": "#e7ffff",
+        "value": "#b7ffff",
         "attributes": {
           "category": "color"
         }
       },
       "5": {
         "value": "#c6f8ff",
+        "attributes": {
+          "category": "color"
+        }
+      },
+      "8": {
+        "value": "#d6a8ff",
         "attributes": {
           "category": "color"
         }
