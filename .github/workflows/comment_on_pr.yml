@@ -15,4 +15,3 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         files: tokens/base.reference.json,tokens/base.system.json,tokens/base.component.json,tokens/theme/light.json
-        milliseconds: 1000
