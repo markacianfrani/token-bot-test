@@ -569,7 +569,7 @@
       "background": {
         "default": {
           "type": "color",
-          "value": "#101923",
+          "value": "#da3eff",
           "rawValue": "{color.background.base.default}"
         }
       },
@@ -1012,12 +1012,12 @@
     "color": {
       "background": {
         "type": "color",
-        "value": "#101923",
+        "value": "#da3eff",
         "rawValue": "{color.background.base.default}"
       },
       "background-inline": {
         "type": "color",
-        "value": "#10192300",
+        "value": "#da3eff00",
         "rawValue": "rgba({color.background.base.default}, 0)"
       },
       "border": {
@@ -1115,7 +1115,7 @@
       "color": {
         "background": {
           "type": "color",
-          "value": "#101923",
+          "value": "#da3eff",
           "rawValue": "{color.background.base.default}"
         },
         "border": {
@@ -1394,7 +1394,7 @@
           "rawValue": "{color.text.primary}"
         },
         "border": {
-          "value": "#101923",
+          "value": "#da3eff",
           "type": "color",
           "rawValue": "{color.background.base.default}"
         }
@@ -1528,7 +1528,7 @@
       },
       "background": {
         "default": {
-          "value": "#101923",
+          "value": "#da3eff",
           "type": "color",
           "rawValue": "{color.background.base.default}"
         }
@@ -1622,10 +1622,10 @@
     "background": {
       "base": {
         "default": {
-          "value": "#101923",
+          "value": "#da3eff",
           "type": "color",
           "description": "Background color of base elements, like the app or popup menus",
-          "rawValue": "{color.palette.brightblue.900}"
+          "rawValue": "{color.palette.brightblue.100}"
         },
         "header": {
           "value": "#172635",

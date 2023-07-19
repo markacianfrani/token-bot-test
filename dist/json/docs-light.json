@@ -552,7 +552,7 @@
   },
   {
     "name": "input-color-background-default",
-    "value": "#101923",
+    "value": "#da3eff",
     "property": "background",
     "category": "color",
     "component": "input",
@@ -1087,7 +1087,7 @@
   },
   {
     "name": "select-color-background",
-    "value": "#101923",
+    "value": "#da3eff",
     "property": "background",
     "category": "color",
     "component": "select",
@@ -1096,7 +1096,7 @@
   },
   {
     "name": "select-color-background-inline",
-    "value": "#10192300",
+    "value": "#da3eff00",
     "property": "background-inline",
     "category": "color",
     "component": "select",
@@ -1239,7 +1239,7 @@
   },
   {
     "name": "slider-thumb-color-background",
-    "value": "#101923",
+    "value": "#da3eff",
     "property": "background",
     "category": "color",
     "component": "slider",
@@ -1605,7 +1605,7 @@
   },
   {
     "name": "table-row-color-border",
-    "value": "#101923",
+    "value": "#da3eff",
     "property": "border",
     "category": "color",
     "component": "table",
@@ -1726,7 +1726,7 @@
   },
   {
     "name": "textarea-color-background-default",
-    "value": "#101923",
+    "value": "#da3eff",
     "property": "background",
     "category": "color",
     "component": "textarea",

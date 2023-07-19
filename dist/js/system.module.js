@@ -1,5 +1,5 @@
 export const OpacityDisabled = "40%";
-export const ColorBackgroundBaseDefault = "#101923";
+export const ColorBackgroundBaseDefault = "#da3eff";
 export const ColorBackgroundBaseHeader = "#172635";
 export const ColorBackgroundBaseHover = "#142435";
 export const ColorBackgroundBaseSelected = "#1c3f5e";

@@ -13,6 +13,6 @@ jobs:
         fetch-depth: 0
     - uses: markacianfrani/token-bot-action@v0
       with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }
-        files: tokens/base.reference.json
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        files: tokens/base.reference.json,tokens/base.system.json
         milliseconds: 1000
