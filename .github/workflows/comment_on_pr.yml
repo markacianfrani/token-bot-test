@@ -14,4 +14,4 @@ jobs:
     - uses: markacianfrani/token-bot-action@v0
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        files: tokens/base.reference.json,tokens/base.system.json,tokens/base.component.json,tokens/theme/light.json
+        files: tokens/base.*.json,tokens/base.system.json,tokens/base.component.json,tokens/theme/light.json
