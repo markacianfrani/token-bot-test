@@ -32,7 +32,7 @@
   "color-background-base-header": "#f5f6f9",
   "color-background-base-hover": "#98bdd3",
   "color-background-base-selected": "#cee9fc",
-  "color-background-surface-default": "#ffffff",
+  "color-background-surface-default": "#000000",
   "color-background-surface-header": "#f5f6f9",
   "color-background-surface-hover": "#da3eff",
   "color-background-surface-selected": "#cee9fc",

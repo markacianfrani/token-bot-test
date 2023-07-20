@@ -2755,12 +2755,12 @@
   },
   {
     "name": "color-background-surface-default",
-    "value": "#ffffff",
+    "value": "#000000",
     "description": "Background color of surface elements, like panels or dialogs",
     "property": "background",
     "category": "color",
     "component": null,
-    "referenceToken": "color-palette-neutral-000",
+    "referenceToken": "color-palette-neutral-1000",
     "tokenLevel": "system"
   },
   {

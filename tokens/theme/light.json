@@ -3,10 +3,10 @@
     "background": {
       "surface": {
         "default": {
-          "value": "#ffffff",
+          "value": "#000000",
           "type": "color",
           "description": "Background color of surface elements, like panels or dialogs",
-          "rawValue": "{color.palette.neutral.000}"
+          "rawValue": "{color.palette.neutral.1000}"
         },
         "header": {
           "value": "#f5f6f9",

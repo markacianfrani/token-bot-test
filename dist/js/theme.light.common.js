@@ -32,7 +32,7 @@ module.exports = {
   "ColorBackgroundBaseHeader": "#f5f6f9",
   "ColorBackgroundBaseHover": "#98bdd3",
   "ColorBackgroundBaseSelected": "#cee9fc",
-  "ColorBackgroundSurfaceDefault": "#ffffff",
+  "ColorBackgroundSurfaceDefault": "#000000",
   "ColorBackgroundSurfaceHeader": "#f5f6f9",
   "ColorBackgroundSurfaceHover": "#da3eff",
   "ColorBackgroundSurfaceSelected": "#cee9fc",

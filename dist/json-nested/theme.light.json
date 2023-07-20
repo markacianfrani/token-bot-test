@@ -91,7 +91,7 @@
         "selected": "#cee9fc"
       },
       "surface": {
-        "default": "#ffffff",
+        "default": "#000000",
         "header": "#f5f6f9",
         "hover": "#da3eff",
         "selected": "#cee9fc"
