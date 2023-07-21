@@ -5,7 +5,7 @@
   "color": {
     "background": {
       "base": {
-        "default": "#101923",
+        "default": "#da3eff",
         "header": "#172635",
         "hover": "#142435",
         "selected": "#1c3f5e"

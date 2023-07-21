@@ -9,16 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Install Node Dependencies
-      run: npm install
-    - name: Build Style Dictionary
-      run: npm run make
-    - name: Commit Generated Platform Deliverables
-      id: "auto-commit-action"
-      uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Update design tokens
-    - name: do the thing
+        fetch-depth: 0
+    - name: make comments 
+      id: comment
       uses: markacianfrani/token-bot-action@v0
       with:
-        milliseconds: 1000
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        files: tokens/base.reference.json,tokens/base.system.json,tokens/base.component.json,tokens/theme/light.json
+    - name: Get the changes
+      run: echo "heres yer changes ${{steps.comment.outputs.changes}}"

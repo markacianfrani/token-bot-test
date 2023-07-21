@@ -1,6 +1,6 @@
 module.exports = {
   "OpacityDisabled": "40%",
-  "ColorBackgroundBaseDefault": "#101923",
+  "ColorBackgroundBaseDefault": "#da3eff",
   "ColorBackgroundBaseHeader": "#172635",
   "ColorBackgroundBaseHover": "#142435",
   "ColorBackgroundBaseSelected": "#1c3f5e",

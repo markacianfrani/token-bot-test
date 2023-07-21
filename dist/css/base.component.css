@@ -11,7 +11,7 @@
   --textarea-padding-x-small: 0.25rem;
   --textarea-padding-x-medium: 0.5rem;
   --textarea-padding-x-large: 0.75rem;
-  --textarea-color-background-default: #101923;
+  --textarea-color-background-default: #da3eff;
   --textarea-color-text-placeholder: #a4abb6;
   --textarea-color-text-default: #ffffff;
   --textarea-color-border-invalid: #ff3838;
@@ -24,7 +24,7 @@
   --table-body-cell-padding-x: 0.5rem;
   --table-body-cell-padding-y: 0.25rem;
   --table-row-border-width: 1px;
-  --table-row-color-border: #101923;
+  --table-row-color-border: #da3eff;
   --table-row-color-text: #ffffff;
   --table-row-color-background-hover: #1c3851;
   --table-row-color-background-selected: #1c3f5e;
@@ -63,10 +63,9 @@
   --slider-thumb-dimension: 20px;
   --slider-thumb-color-border-hover: #92cbff;
   --slider-thumb-color-border-default: #4dacff;
-  --slider-thumb-color-background: #101923;
+  --slider-thumb-color-background: #da3eff;
   --slider-thumb-border-width: 2px;
   --slider-radius-background-track: 1px;
-  --slider-axis-label-color-text: #ffffff;
   --select-radius: 3px;
   --select-padding-y-small: 1rem;
   --select-padding-y-medium: 0.5rem;
@@ -80,8 +79,8 @@
   --select-color-border-hover: #92cbff;
   --select-color-border-inline-default: #2b659b00;
   --select-color-border-default: #2b659b;
-  --select-color-background-inline: #10192300;
-  --select-color-background: #101923;
+  --select-color-background-inline: #da3eff00;
+  --select-color-background: #da3eff;
   --select-caret-selector-width: 32px;
   --select-caret-selector-color-background: #1c3f5e;
   --select-caret-dimension: 30px;
@@ -139,7 +138,7 @@
   --input-color-border-invalid: #ff3838;
   --input-color-border-hover: #92cbff;
   --input-color-border-default: #2b659b;
-  --input-color-background-default: #101923;
+  --input-color-background-default: #da3eff;
   --input-border-width: 1px;
   --indeterminate-progress-radius-outer: 30px;
   --indeterminate-progress-radius-inner: 23px;
