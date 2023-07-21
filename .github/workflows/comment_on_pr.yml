@@ -7,18 +7,15 @@ on:
 jobs:
   generate_tokens:
     runs-on: ubuntu-latest
-    outputs:
-      changes: ${{ steps.generate_tokens.outputs.changes }}
     steps:
     - uses: actions/checkout@v3
       with:
         fetch-depth: 0
-    - uses: markacianfrani/token-bot-action@v0
+    - name: make comments 
+      id: comment
+      uses: markacianfrani/token-bot-action@v0
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         files: tokens/base.reference.json,tokens/base.system.json,tokens/base.component.json,tokens/theme/light.json
-  make_changeset:
-    runs-on: ubuntu-latest
-    needs: generate_tokens
-    steps:
-      - run: echo ${{needs.generate_tokens.outputs.changes}}
+    - name: Get the changes
+      run: echo "heres yer changes ${{steps.comment.outputs.changes}}"
