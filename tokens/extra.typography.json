@@ -1,10 +1,16 @@
 {
   "opacity": {
-    "25": {
-      "value": "25%",
+    "11": {
+      "value": "11%",
       "type": "opacity",
       "description": "Opacity used in drop shadow for scrollbars in light theme",
-      "rawValue": "25%"
+      "rawValue": "11%"
+    },
+    "25": {
+      "value": "31%",
+      "type": "opacity",
+      "description": "Opacity used in drop shadow for scrollbars in light theme",
+      "rawValue": "31%"
     },
     "35": {
       "value": "35%",
@@ -56,11 +62,6 @@
           "type": "color",
           "rawValue": "#98bdd3"
         },
-        "300": {
-          "value": "#649cbd",
-          "type": "color",
-          "rawValue": "#649cbd"
-        },
         "400": {
           "value": "#2f7aa7",
           "type": "color",
@@ -105,9 +106,9 @@
       },
       "brightblue": {
         "100": {
-          "value": "#daeeff",
+          "value": "#da3eff",
           "type": "color",
-          "rawValue": "#daeeff"
+          "rawValue": "#da3eff"
         },
         "200": {
           "value": "#cee9fc",

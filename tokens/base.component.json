@@ -412,7 +412,7 @@
       "background": {
         "default": {
           "type": "color",
-          "value": "#101923",
+          "value": "#da3eff",
           "rawValue": "{color.background.base.default}"
         }
       },
@@ -855,12 +855,12 @@
     "color": {
       "background": {
         "type": "color",
-        "value": "#101923",
+        "value": "#da3eff",
         "rawValue": "{color.background.base.default}"
       },
       "background-inline": {
         "type": "color",
-        "value": "#10192300",
+        "value": "#da3eff00",
         "rawValue": "rgba({color.background.base.default}, 0)"
       },
       "border": {
@@ -941,15 +941,6 @@
     }
   },
   "slider": {
-    "axis-label": {
-      "color": {
-        "text": {
-          "type": "color",
-          "value": "#ffffff",
-          "rawValue": "{color.text.primary}"
-        }
-      }
-    },
     "radius": {
       "background-track": {
         "description": "[DEPRECATED] use slider-track-radius instead",
@@ -967,7 +958,7 @@
       "color": {
         "background": {
           "type": "color",
-          "value": "#101923",
+          "value": "#da3eff",
           "rawValue": "{color.background.base.default}"
         },
         "border": {
@@ -1246,7 +1237,7 @@
           "rawValue": "{color.text.primary}"
         },
         "border": {
-          "value": "#101923",
+          "value": "#da3eff",
           "type": "color",
           "rawValue": "{color.background.base.default}"
         }
@@ -1380,7 +1371,7 @@
       },
       "background": {
         "default": {
-          "value": "#101923",
+          "value": "#da3eff",
           "type": "color",
           "rawValue": "{color.background.base.default}"
         }

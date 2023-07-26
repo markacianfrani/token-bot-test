@@ -552,7 +552,7 @@
   },
   {
     "name": "input-color-background-default",
-    "value": "#101923",
+    "value": "#da3eff",
     "property": "background",
     "category": "color",
     "component": "input",
@@ -1086,7 +1086,7 @@
   },
   {
     "name": "select-color-background",
-    "value": "#101923",
+    "value": "#da3eff",
     "property": "background",
     "category": "color",
     "component": "select",
@@ -1095,7 +1095,7 @@
   },
   {
     "name": "select-color-background-inline",
-    "value": "#10192300",
+    "value": "#da3eff00",
     "property": "background-inline",
     "category": "color",
     "component": "select",
@@ -1219,15 +1219,6 @@
     "tokenLevel": "component"
   },
   {
-    "name": "slider-axis-label-color-text",
-    "value": "#ffffff",
-    "property": "text",
-    "category": "color",
-    "component": "slider",
-    "referenceToken": "color-text-primary",
-    "tokenLevel": "component"
-  },
-  {
     "name": "slider-radius-background-track",
     "value": "1px",
     "description": "[DEPRECATED] use slider-track-radius instead",
@@ -1247,7 +1238,7 @@
   },
   {
     "name": "slider-thumb-color-background",
-    "value": "#101923",
+    "value": "#da3eff",
     "property": "background",
     "category": "color",
     "component": "slider",
@@ -1613,7 +1604,7 @@
   },
   {
     "name": "table-row-color-border",
-    "value": "#101923",
+    "value": "#da3eff",
     "property": "border",
     "category": "color",
     "component": "table",
@@ -1734,7 +1725,7 @@
   },
   {
     "name": "textarea-color-background-default",
-    "value": "#101923",
+    "value": "#da3eff",
     "property": "background",
     "category": "color",
     "component": "textarea",
@@ -1850,8 +1841,17 @@
     "tokenLevel": "component"
   },
   {
+    "name": "opacity-11",
+    "value": "11%",
+    "description": "Opacity used in drop shadow for scrollbars in light theme",
+    "property": "11",
+    "category": "opacity",
+    "component": null,
+    "tokenLevel": "reference"
+  },
+  {
     "name": "opacity-25",
-    "value": "25%",
+    "value": "31%",
     "description": "Opacity used in drop shadow for scrollbars in light theme",
     "property": "25",
     "category": "opacity",
@@ -1937,14 +1937,6 @@
     "tokenLevel": "reference"
   },
   {
-    "name": "color-palette-darkblue-300",
-    "value": "#649cbd",
-    "property": "palette",
-    "category": "color",
-    "component": null,
-    "tokenLevel": "reference"
-  },
-  {
     "name": "color-palette-darkblue-400",
     "value": "#2f7aa7",
     "description": "Protected",
@@ -2008,7 +2000,7 @@
   },
   {
     "name": "color-palette-brightblue-100",
-    "value": "#daeeff",
+    "value": "#da3eff",
     "property": "palette",
     "category": "color",
     "component": null,
@@ -2720,12 +2712,12 @@
   },
   {
     "name": "color-background-base-default",
-    "value": "#101923",
+    "value": "#da3eff",
     "description": "Background color of base elements, like the app or popup menus",
     "property": "background",
     "category": "color",
     "component": null,
-    "referenceToken": "color-palette-brightblue-900",
+    "referenceToken": "color-palette-brightblue-100",
     "tokenLevel": "system"
   },
   {

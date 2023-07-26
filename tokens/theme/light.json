@@ -3,10 +3,10 @@
     "background": {
       "surface": {
         "default": {
-          "value": "#ffffff",
+          "value": "#000000",
           "type": "color",
           "description": "Background color of surface elements, like panels or dialogs",
-          "rawValue": "{color.palette.neutral.000}"
+          "rawValue": "{color.palette.neutral.1000}"
         },
         "header": {
           "value": "#f5f6f9",
@@ -21,7 +21,7 @@
           "rawValue": "{color.palette.brightblue.200}"
         },
         "hover": {
-          "value": "#daeeff",
+          "value": "#da3eff",
           "type": "color",
           "description": "Background color of surface elements, like cards or table rows, when they are hovered over",
           "rawValue": "{color.palette.brightblue.100}"
@@ -246,7 +246,7 @@
             "y": 3,
             "blur": 3,
             "spread": 0,
-            "color": "#00000040",
+            "color": "#0000004f",
             "type": "innerShadow"
           },
           "type": "boxShadow",
